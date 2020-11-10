@@ -2,13 +2,14 @@
 
 Pages ini dibuat hanya ikut-ikutan biar kayak orang-orang
 
-### Markdown
+### Dirga Reborn
+Web Developer @amaze
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[https://wakatime.com/share/@b0ec4818-426e-4e4e-a958-de5c55ae8dad/9d3432f9-8308-4d30-9f43-ba4a1f1bd282.png](src)
 ```markdown
 Syntax highlighted code block
-[https://wakatime.com/share/@b0ec4818-426e-4e4e-a958-de5c55ae8dad/9d3432f9-8308-4d30-9f43-ba4a1f1bd282.png](src)
+
 # Header 1
 ## Header 2
 ### Header 3
